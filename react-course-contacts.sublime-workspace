@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"De",
+				"description"
+			],
+			[
+				"case",
+				"casenumber"
+			],
+			[
+				"M",
+				"M_PM_Number__c"
+			],
+			[
+				"i",
+				"Id"
+			],
+			[
+				"reco",
+				"recordId"
+			],
+			[
+				"Lead",
+				"LeadSource"
+			],
+			[
+				"le",
+				"leads"
+			],
+			[
+				"Le",
+				"LeadSource"
+			],
+			[
+				"Leas",
+				"LeadProcessorTest"
+			],
+			[
+				"Acco",
+				"AccountId"
+			],
+			[
+				"Te",
+				"TestCon2"
+			],
+			[
+				"cu",
+				"currentAccount"
+			],
+			[
+				"rec",
+				"recordId1"
+			],
+			[
+				"re",
+				"recordId2"
+			],
+			[
+				"Ac",
+				"AccountIDs"
+			],
+			[
+				"L",
+				"List\t[Standard Apex Class]"
+			],
+			[
+				"Animal",
+				"AnimalLocatorMock"
+			],
+			[
+				"get",
+				"PUBLIC getStatusCode() \tInteger"
+			],
+			[
+				"Case",
+				"CaseNumber"
+			],
+			[
+				"ou",
+				"apex:outputLink"
+			],
+			[
+				"pageBl",
+				"apex:pageBlockSection"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Controlinst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 271.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tbirke/Documents/88_dev/react/contacts"
+	],
+	"file_history":
+	[
+		"/Users/tbirke/.gitconfig",
+		"/Users/tbirke/git/t/t7060-wtstatus.sh",
+		"/Users/tbirke/Documents/88_dev/Quip Live App/my-app/app/manifest.json",
+		"/Users/tbirke/Downloads/PSDO_users_active.csv",
+		"/Users/tbirke/Downloads/extracttd-change.csv",
+		"/Users/tbirke/Downloads/coolCaseDemoSkill.js",
+		"/Users/tbirke/Downloads/coolCaseDemoModel.json",
+		"/Users/tbirke/Downloads/gantt_5.0.5_trial/codebase/dhtmlxgantt.js",
+		"/Users/tbirke/Documents/88_dev/Siemens PS DO MVP/src/aura/VersionTest/VersionTest.cmp",
+		"/Users/tbirke/Documents/88_dev/Siemens PS DO MVP/src/aura/VersionTest/VersionTestController.js",
+		"/Users/tbirke/Documents/88_dev/Siemens PS DO MVP/src/aura/SIEMENSgetAllProjectFiles/SIEMENSgetAllProjectFiles.cmp",
+		"/Users/tbirke/Documents/88_dev/Siemens PS DO MVP/src/aura/SiemensMSandTaskOverview/SiemensMSandTaskOverview.cmp",
+		"/Users/tbirke/Documents/88_dev/Siemens PS DO MVP/config/.lightning",
+		"/Users/tbirke/Documents/88_dev/Siemens PS DO MVP/src/aura/SiemensMSandTaskOverview/SiemensMSandTaskOverview.cmp-meta.xml",
+		"/Users/tbirke/Documents/88_dev/Siemens PS DO MVP/src/classes/OutageProjectController.cls",
+		"/Users/tbirke/Documents/88_dev/Siemens PS DO MVP/src/aura/OutageProjectReportContainer/OutageProjectReportContainerController.js",
+		"/Users/tbirke/Documents/88_dev/Siemens PS DO MVP/src/pages/Outage_Project_Report.page",
+		"/Users/tbirke/Documents/88_dev/Siemens PS DO MVP/src/aura/OutageProjectReportContainer/OutageProjectReportContainer.cmp",
+		"/Users/tbirke/Documents/88_dev/Siemens PS DO MVP/src/classes/AttachPDFFileController.cls",
+		"/Users/tbirke/Downloads/checklistitems.csv",
+		"/Users/tbirke/Downloads/delMCI.csv",
+		"/Users/tbirke/Downloads/Export - HOWTO- Get Started with Milestones PM Plus - 2018-01-24 11-06-23.xml",
+		"/Users/tbirke/Documents/88_dev/VW Chatbot Demo/src/aura/VWCarNetTheme/VWCarNetTheme.cmp",
+		"/Users/tbirke/Documents/88_dev/VW Chatbot Demo/src/aura/VWCarNetTheme.cmp/VWCarNetTheme.cmpStyle.css",
+		"/Users/tbirke/Documents/88_dev/VW Chatbot Demo/src/aura/VWCarNetTheme.cmp/VWCarNetTheme.cmp",
+		"/Users/tbirke/Downloads/extract-user-v2.csv",
+		"/Users/tbirke/Downloads/innohub-delusers.csv",
+		"/Users/tbirke/Downloads/extract.csv",
+		"/Users/tbirke/Downloads/Workbook2.csv",
+		"/Users/tbirke/Library/Mobile Documents/com~apple~CloudDocs/Documents/01_Kunden/04_Kuka/kuka-help-skill-utterances.json",
+		"/Users/tbirke/Library/Mobile Documents/com~apple~CloudDocs/Documents/01_Kunden/04_Kuka/alexa_skill-v1.js",
+		"/Users/tbirke/Documents/alexa-skill-kit-sdk-factskill/index.js",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/classes/DailyLeadProcessor.cls-meta.xml",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/classes/LeadProcessorTest.cls",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/Trailhead_SLDS_RecordHome.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/Trailhead_SLDS_Listview_Data.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/Trailhead_SLDS_Listview.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/Trailhead_SLDS_Basic.page",
+		"/Users/tbirke/Downloads/salesforce-lightning-design-system/package.json",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/classes/AnimalLocatorTest.cls",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/classes/AnimalLocatorMock.cls",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/classes/AnimalLocator.cls",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/classes/AnimalsCallouts.cls",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/NewCaseList.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/classes/NewCaseListController.cls",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/classes/ContactsListController.cls",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/ContactsListWithController.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/ShowImage.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/jQueryMobileResources.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/AccountDetail.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/ContactList.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/AccountList.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/HelloJQuery.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/CreateContact.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/OppView.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/ContactView.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/AccountSummary.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/DisplayUserInfo.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/UserStatus.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/APITest.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/pages/DisplayImage.page",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/classes/AccountHandler.cls",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/classes/StringArrayTest.cls",
+		"/Users/tbirke/Documents/88_dev/TrailheadDevOrg/src/classes/TestStringArrayTest.cls"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 96.0
+	},
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react-course-contacts.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
